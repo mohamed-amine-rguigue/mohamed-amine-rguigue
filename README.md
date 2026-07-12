@@ -31,7 +31,7 @@ From **medical school to AI engineering** — an unconventional path driven by o
 
 ---
 
-## 🎯 Looking for an AI Apprenticeship
+## Looking for an AI Apprenticeship
 
 <div align="center">
 
