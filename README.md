@@ -45,7 +45,7 @@ From **medical school to AI engineering** — an unconventional path driven by o
 &nbsp;<img src="https://img.shields.io/badge/AI_Agent_Engineer-8338EC?style=flat-square">
 &nbsp;<img src="https://img.shields.io/badge/MLOps_Engineer-5E60CE?style=flat-square">
 
-<br><br>
+<br>
 
 | Period | Dates |
 |:---|:---|
