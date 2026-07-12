@@ -64,15 +64,14 @@ From **medical school to AI engineering** — an unconventional path driven by o
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" /><br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,huggingface" /><br>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-&nbsp;<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
 &nbsp;<img src="https://img.shields.io/badge/RAG%20%C2%B7%20FAISS-6F42C1?style=flat-square">
 &nbsp;<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux,postgres" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postgres,aws,fastapi" />
 
 <br>
 
