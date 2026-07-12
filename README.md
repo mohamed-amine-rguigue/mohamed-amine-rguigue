@@ -64,9 +64,8 @@ From **medical school to AI engineering** — an unconventional path driven by o
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" /><br>
-<img src="https://skillicons.dev/icons?i=huggingface" height="48">
-&nbsp;<img src="./assets/coi1.png" height="48">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,huggingface" /><br>
+<img src="./assets/coi1.png" height="48">
 &nbsp;<img src="./assets/coi2.png" height="48">
 &nbsp;<img src="./assets/coi3.png" height="48">
 
