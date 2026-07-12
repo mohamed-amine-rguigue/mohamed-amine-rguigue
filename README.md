@@ -1,22 +1,20 @@
 <div align="center">
 
-<img src="./assets/techstack.gif" width="420" alt="AI Technology Animation">
-
-<br><br>
-
-# Mohamed-Amine Rguigue
-
-### AI Engineering Student @ ESIEE Paris
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Generative+AI+%7C+AI+Agents;Building+intelligent+systems+for+real-world+applications;Interested+in+foundation+models+and+quantitative+finance" alt="Typing animation">
+<img src="./assets/ai-banner.gif" width="100%" alt="Mohamed-Amine Rguigue — AI Engineering">
 
 <br>
 
-<a href="mailto:geeksaama@gmail.com">
-  <img src="https://img.shields.io/badge/Email-geeksaama%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:amine.rguiguepro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-amine.rguiguepro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
+<a href="https://github.com/mohamed-amine-rguigue">
+  <img src="https://img.shields.io/badge/GitHub-mohamed--amine--rguigue-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
 <img src="https://komarev.com/ghpvc/?username=mohamed-amine-rguigue&style=for-the-badge&color=6f42c1" alt="Profile views">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&center=true&vCenter=true&width=900&lines=AI+Engineering+Student+%40+ESIEE+Paris;Machine+Learning+%7C+Generative+AI+%7C+AI+Agents;Building+intelligent+systems+for+real-world+applications" alt="Typing animation">
 
 </div>
 
@@ -25,12 +23,12 @@
 ## 🧠 About Me
 
 - 🎓 Engineering student in **Data & Artificial Intelligence** at **ESIEE Paris**
-- 🤖 Building **AI agents, machine learning systems and generative AI applications**
-- 🔬 Interested in **deep learning, foundation models and AI research**
+- 🤖 Building **machine learning systems, generative AI applications and autonomous agents**
+- 🔬 Interested in **deep learning, foundation models, AI research and scalable systems**
 - 📈 Exploring **financial AI and quantitative finance**
-- ⚙️ Developing skills in **MLOps, distributed systems and scalable AI**
-- 🚀 Aspiring technical founder and AI entrepreneur
-- 📍 Based near Paris, France
+- ⚙️ Developing skills in **MLOps, backend engineering and distributed systems**
+- 🚀 Long-term goal: build ambitious AI products and launch a technology company
+- 📍 Paris / Île-de-France, France
 
 ---
 
@@ -42,22 +40,20 @@
 
 **Paris · Île-de-France · France**
 
+<br>
+
+<img src="https://img.shields.io/badge/AI_Engineer-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Applied_AI_Engineer-6F42C1?style=for-the-badge">
+<img src="https://img.shields.io/badge/ML_Engineer-00A6D6?style=for-the-badge">
+<img src="https://img.shields.io/badge/GenAI_Engineer-7B2CBF?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLM_Engineer-3A86FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/MLOps_Engineer-8338EC?style=for-the-badge">
+
 </div>
-
-### Target Roles
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_Engineer-0A66C2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Applied_AI_Engineer-6F42C1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ML_Engineer-00A6D6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GenAI_Engineer-7B2CBF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LLM_Engineer-3A86FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MLOps_Engineer-8338EC?style=for-the-badge">
-</p>
 
 ### 📅 Full-Time Company Periods
 
-| Academic Year | Company Period |
+| Academic year | Full-time company period |
 |:--:|:--|
 | **2026–2027** | **7 December 2026 → 19 March 2027** |
 | **2026–2027** | **21 June 2027 → 1 September 2027** |
@@ -70,16 +66,13 @@
 
 <div align="center">
 
-### Artificial Intelligence & Data
-
+### AI & Data
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="AI stack">
 
 ### Backend, Infrastructure & MLOps
-
 <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,postgres,redis,aws,git,linux" alt="Backend and infrastructure stack">
 
 ### Development Tools
-
 <img src="https://skillicons.dev/icons?i=vscode,github,bash" alt="Development tools">
 
 </div>
@@ -92,69 +85,53 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Investment Copilot
+### 🧠 [CIFAR-10 CNN from Scratch](https://github.com/mohamed-amine-rguigue/cifar10-cnn-from-scratch)
 
-AI-assisted financial research and decision-support system combining market data, machine learning and generative AI.
+Image classification on CIFAR-10 with four CNN architectures built from scratch.
 
-**Focus:**  
-`Financial AI` `RAG` `Agents` `Machine Learning`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Autonomous Agent System
-
-Tool-using AI agents with planning, memory, retrieval, orchestration and evaluation.
-
-**Focus:**  
-`LLMs` `Multi-Agent Systems` `Tool Use` `MCP`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Financial Machine Learning
-
-Machine learning models applied to financial, economic and alternative data.
-
-**Focus:**  
-`Forecasting` `Risk` `Time Series` `Quantitative Finance`
+**Focus:** `TensorFlow` `Keras` `CNN` `Data Augmentation`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Production AI Platform
+### 🛡️ [Cybersecurity Awareness Game](https://github.com/mohamed-amine-rguigue/cybersecurity-awareness-game)
 
-Production-ready AI architecture with APIs, containers, monitoring and automated deployment.
+A serious game covering phishing, passwords and social engineering.
 
-**Focus:**  
-`MLOps` `FastAPI` `Docker` `Cloud`
+**Focus:** `JavaScript` `Game Design` `Cybersecurity`
 
 </td>
 </tr>
 </table>
 
+### 🔭 Currently Building
+
+- 🤖 **AI Investment Copilot** — financial research, RAG, agents and decision support
+- 🧠 **Autonomous Agent System** — planning, memory, tools and evaluation
+- ⚙️ **Production AI Platform** — APIs, containers, monitoring and deployment
+
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamed-amine-rguigue&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-amine-rguigue&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-amine-rguigue&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph">
 
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+## 🌌 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-amine-rguigue&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph">
+<img src="https://raw.githubusercontent.com/mohamed-amine-rguigue/mohamed-amine-rguigue/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake">
 
 </div>
 
@@ -164,10 +141,9 @@ Production-ready AI architecture with APIs, containers, monitoring and automated
 
 <div align="center">
 
-<a href="mailto:geeksaama@gmail.com">
-  <img src="https://img.shields.io/badge/Email-geeksaama%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:amine.rguiguepro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-amine.rguiguepro%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 <a href="https://github.com/mohamed-amine-rguigue">
   <img src="https://img.shields.io/badge/GitHub-mohamed--amine--rguigue-181717?style=for-the-badge&logo=github">
 </a>
