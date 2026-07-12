@@ -1,10 +1,14 @@
 <div align="center">
 
+<img src="./assets/techstack.gif" width="100%" alt="Banner">
+
+<br>
+
 <h1>Mohamed-Amine Rguigue</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=6f42c1&center=true&vCenter=true&width=800&lines=AI+%26+Data+Engineering+Student+%40+ESIEE+Paris;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Looking+for+an+AI+apprenticeship+%E2%80%94+Dec+2026" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=6f42c1&center=true&vCenter=true&width=800&lines=AI+%26+Data+Engineering+Student+%40+ESIEE+Paris;Generative+AI+%C2%B7+LLMs+%C2%B7+AI+Agents+%C2%B7+Deep+Learning;Looking+for+an+AI%2FML+Engineer+apprenticeship+%E2%80%94+Dec+2026" alt="Typing animation">
 
-<br><br>
+<br>
 
 <a href="mailto:amine.rguiguepro@gmail.com">
   <img src="https://img.shields.io/badge/Email-amine.rguiguepro@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
@@ -26,19 +30,18 @@
 
 ## About Me
 
-- 🎓 Engineering student in **Data & Artificial Intelligence** at **ESIEE Paris**
-- 🤖 Building **machine learning systems, generative AI applications and autonomous agents**
-- 🔬 Interested in **deep learning, foundation models and AI research**
-- 📈 Exploring **financial AI and quantitative finance**
-- ⚙️ Developing skills in **MLOps, distributed systems and scalable AI**
-- 🚀 Long-term goal: build ambitious AI products and launch a technology company
+From **medical school to AI engineering** — an unconventional path driven by one constant: understanding complex systems and building things that matter.
+
+- 🎓 Engineering student in **Data & Artificial Intelligence** at **ESIEE Paris** (2025–2028)
+- 🧠 Focused on **deep learning, generative AI and agentic systems** — from training models from scratch to building LLM-powered applications
+- 📈 Strong interest in **AI applied to finance** — investment research, quantitative methods, decision support
+- ⚙️ Building solid foundations in **MLOps and production AI** — Docker, MLflow, deployment pipelines
+- 🚀 Long-term: become a **T-shaped AI engineer** capable of designing, training and shipping complete AI products
 - 📍 Paris / Île-de-France, France
 
 ---
 
 ## 🎯 Looking for an AI Apprenticeship
-
-<img src="./assets/techstack.gif" width="100%" alt="Banner">
 
 <div align="center">
 
@@ -46,21 +49,21 @@
 
 <br>
 
+<img src="https://img.shields.io/badge/ML_Engineer_·_GenAI-6F42C1?style=flat-square">
+&nbsp;
 <img src="https://img.shields.io/badge/AI_Engineer-0A66C2?style=flat-square">
 &nbsp;
-<img src="https://img.shields.io/badge/Applied_AI_Engineer-6F42C1?style=flat-square">
-&nbsp;
-<img src="https://img.shields.io/badge/ML_Engineer-00A6D6?style=flat-square">
+<img src="https://img.shields.io/badge/Applied_AI_Engineer-00A6D6?style=flat-square">
 &nbsp;
 <img src="https://img.shields.io/badge/GenAI_Engineer-7B2CBF?style=flat-square">
 &nbsp;
 <img src="https://img.shields.io/badge/LLM_Engineer-3A86FF?style=flat-square">
 &nbsp;
-<img src="https://img.shields.io/badge/MLOps_Engineer-8338EC?style=flat-square">
+<img src="https://img.shields.io/badge/AI_Agent_Engineer-8338EC?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/MLOps_Engineer-5E60CE?style=flat-square">
 
-</div>
-
-<br>
+<br><br>
 
 | Period | Dates |
 |:---|:---|
@@ -68,6 +71,8 @@
 | Jun 2027 → Sep 2027 | 21 June 2027 → 1 September 2027 |
 | Dec 2027 | 20 December 2027 → 31 December 2027 |
 | Mar 2028 → Sep 2028 | 20 March 2028 → 22 September 2028 |
+
+</div>
 
 ---
 
@@ -79,9 +84,23 @@
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 
+<br>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+&nbsp;
+<img src="https://img.shields.io/badge/RAG_·_FAISS-6F42C1?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
+
+<br><br>
+
 **Backend, Infrastructure & MLOps**
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux,aws,postgres" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postgres" />
+
+<br><br>
 
 **Development**
 
