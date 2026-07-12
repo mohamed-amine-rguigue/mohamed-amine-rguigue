@@ -58,7 +58,7 @@ From **medical school to AI engineering** — an unconventional path driven by o
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
