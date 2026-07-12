@@ -22,12 +22,12 @@
 
 From **medical school to AI engineering** — an unconventional path driven by one constant: understanding complex systems and building things that matter.
 
-- 🎓 Engineering student in **Data & Artificial Intelligence** at **ESIEE Paris** (2025–2028)
-- 🧠 Focused on **deep learning, generative AI and agentic systems** — from training models from scratch to building LLM-powered applications
-- 📈 Strong interest in **AI applied to finance** — investment research, quantitative methods, decision support
-- ⚙️ Building solid foundations in **MLOps and production AI** — Docker, MLflow, deployment pipelines
-- 🚀 Long-term: become a **T-shaped AI engineer** capable of designing, training and shipping complete AI products
-- 📍 Paris / Île-de-France, France
+- Engineering student in **Data & Artificial Intelligence** at **ESIEE Paris** (2025–2028)
+- Focused on **deep learning, generative AI and agentic systems** — from training models from scratch to building LLM-powered applications
+- Strong interest in **AI applied to finance** — investment research, quantitative methods, decision support
+- Building solid foundations in **MLOps and production AI** — Docker, MLflow, deployment pipelines
+- Long-term: become a **T-shaped AI engineer** capable of designing, training and shipping complete AI products
+- Paris / Île-de-France, France
 
 ---
 
