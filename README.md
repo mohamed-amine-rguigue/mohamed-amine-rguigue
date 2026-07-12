@@ -38,6 +38,8 @@
 
 ## 🎯 Looking for an AI Apprenticeship
 
+<img src="./assets/techstack.gif" width="100%" alt="Banner">
+
 <div align="center">
 
 **December 2026 → September 2028 · Paris · Île-de-France**
