@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/techstack.gif" width="420" alt="AI Technology Animation">
+
+<br><br>
+
 # Mohamed-Amine Rguigue
 
 ### AI Engineering Student @ ESIEE Paris
