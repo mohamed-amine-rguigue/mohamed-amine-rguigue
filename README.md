@@ -37,8 +37,6 @@ From **medical school to AI engineering** — an unconventional path driven by o
 
 **December 2026 → September 2028 · Paris · Île-de-France**
 
-<br>
-
 <img src="https://img.shields.io/badge/ML_Engineer_·_GenAI-6F42C1?style=flat-square">
 &nbsp;<img src="https://img.shields.io/badge/AI_Engineer-0A66C2?style=flat-square">
 &nbsp;<img src="https://img.shields.io/badge/Applied_AI_Engineer-00A6D6?style=flat-square">
