@@ -110,7 +110,7 @@ Serious game on phishing, passwords and social engineering — built in a team o
 
 Built a semi-conductor stock analysis system combining ML predictions, technical indicators, news retrieval and RAG-based reasoning with Streamlit and Ollama.
 
-`Python` `PyTorch` `FAISS` `RAG` `MLflow` `Docker`
+`Python` `PyTorch` `LangChain` `RAG` `FAISS` `Hugging Face` `MLflow` `Docker` `SQL`
 
 </td>
 <td width="50%" valign="top">
