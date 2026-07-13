@@ -2,7 +2,7 @@
 
 <h1>Mohamed-Amine Rguigue</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=6f42c1&center=true&vCenter=true&width=800&lines=AI+%26+Data+Engineering+Student+%40+ESIEE+Paris;Generative+AI+%C2%B7+LLMs+%C2%B7+AI+Agents+%C2%B7+Deep+Learning;Looking+for+an+AI%2FML+Engineer+apprenticeship+%E2%80%94+Dec+2026" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=6f42c1&center=true&vCenter=true&width=800&lines=AI+%26+Data+Engineering+Student+%40+ESIEE+Paris;Machine+Learning+%7C+Generative+AI+%7C+RAG+%7C+Deep+Learning;Looking+for+an+AI%2FML+Engineer+apprenticeship+%E2%80%94+Dec+2026" alt="Typing animation">
 
 <br>
 
@@ -20,32 +20,31 @@
 
 ## About Me
 
-From **medical school to AI engineering** — an unconventional path driven by one constant: understanding complex systems and building things that matter.
+Data & AI engineering student at ESIEE Paris, building end-to-end machine learning and generative AI systems — from model training and evaluation to RAG, experiment tracking, containerization and user-facing applications.
 
-- Engineering student in **Data & Artificial Intelligence** at **ESIEE Paris** (2025–2028)
-- Focused on **deep learning, generative AI and agentic systems** — from training models from scratch to building LLM-powered applications
-- Strong interest in **AI applied to finance** — investment research, quantitative methods, decision support
-- Building solid foundations in **MLOps and production AI** — Docker, MLflow, deployment pipelines
-- Long-term: become a **T-shaped AI engineer** capable of designing, training and shipping complete AI products
-- Paris / Île-de-France, France
+- 🎓 Engineering student in **Data & Artificial Intelligence** at **ESIEE Paris** (2025–2028)
+- 🧠 Focused on **deep learning, generative AI and RAG systems** — from training models from scratch to building LLM-powered applications
+- 📈 Strong interest in **AI applied to finance** — investment research, quantitative methods, decision support
+- ⚙️ Building solid foundations in **MLOps and production AI** — Docker, MLflow, deployment pipelines
+- 🚀 Long-term: become a **T-shaped AI engineer** capable of designing, training and shipping complete AI products
+- 📍 Paris / Île-de-France, France
 
 ---
 
-## Looking for an AI Apprenticeship
+## 🎯 Looking for an AI Apprenticeship
 
 <div align="center">
 
 **December 2026 → September 2028 · Paris · Île-de-France**
 
-<img src="https://img.shields.io/badge/ML_Engineer_·_GenAI-6F42C1?style=flat-square">
-&nbsp;<img src="https://img.shields.io/badge/AI_Engineer-0A66C2?style=flat-square">
-&nbsp;<img src="https://img.shields.io/badge/Applied_AI_Engineer-00A6D6?style=flat-square">
-&nbsp;<img src="https://img.shields.io/badge/GenAI_Engineer-7B2CBF?style=flat-square">
-&nbsp;<img src="https://img.shields.io/badge/LLM_Engineer-3A86FF?style=flat-square">
-&nbsp;<img src="https://img.shields.io/badge/AI_Agent_Engineer-8338EC?style=flat-square">
+<br>
+
+<img src="https://img.shields.io/badge/AI%2FML_Engineer-6F42C1?style=flat-square">
+&nbsp;<img src="https://img.shields.io/badge/Applied_AI_Engineer-0A66C2?style=flat-square">
+&nbsp;<img src="https://img.shields.io/badge/GenAI%2FLLM_Engineer-7B2CBF?style=flat-square">
 &nbsp;<img src="https://img.shields.io/badge/MLOps_Engineer-5E60CE?style=flat-square">
 
-<br>
+<br><br>
 
 | Period | Dates |
 |:---|:---|
@@ -58,7 +57,7 @@ From **medical school to AI engineering** — an unconventional path driven by o
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -86,6 +85,15 @@ From **medical school to AI engineering** — an unconventional path driven by o
 <tr>
 <td width="50%" valign="top">
 
+**[QuantGenesis](https://github.com/mohamed-amine-rguigue/quantgenesis)**
+
+End-to-end stock trend analysis system for semi-conductor equities — PyTorch classifier (bullish/neutral/bearish, 5-day horizon), RAG pipeline on financial news with LangChain, FAISS and Ollama, Streamlit UI, MLflow tracking, Docker.
+
+`Python` `PyTorch` `LangChain` `RAG` `FAISS` `Ollama` `MLflow` `Docker` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
 **[CIFAR-10 CNN from Scratch](https://github.com/mohamed-amine-rguigue/cifar10-cnn-from-scratch)**
 
 Trained and compared 4 CNN architectures on CIFAR-10 (60k images). Best model: **86.7% accuracy** (+17.2 pts vs baseline) using dropout, L2, BatchNorm and data augmentation.
@@ -93,28 +101,18 @@ Trained and compared 4 CNN architectures on CIFAR-10 (60k images). Best model: *
 `Python` `TensorFlow` `Keras` `Deep Learning`
 
 </td>
-<td width="50%" valign="top">
-
-**[Cybersecurity Awareness Game](https://github.com/mohamed-amine-rguigue/cybersecurity-awareness-game)**
-
-Serious game on phishing, passwords and social engineering — built in a team of 3 with Phaser 3, WebGL and Canvas 2D. Delivered in 2 months.
-
-`JavaScript` `Phaser 3` `WebGL` `Game Design`
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[QuantGenesis](https://github.com/mohamed-amine-rguigue/quantgenesis)**
+**[Cybersecurity Awareness Game](https://github.com/mohamed-amine-rguigue/cybersecurity-awareness-game)**
 
-Built a semi-conductor stock analysis system combining ML predictions, technical indicators, news retrieval and RAG-based reasoning with Streamlit and Ollama.
+Narrative RPG serious game on phishing, passwords and social engineering — built in a team of 3 with Phaser 3, WebGL and Canvas 2D. Delivered in 2 months.
 
-`Python` `PyTorch` `LangChain` `RAG` `FAISS` `Hugging Face` `MLflow` `Docker` `SQL`
+`JavaScript` `Phaser 3` `WebGL` `Game Design`
 
 </td>
 <td width="50%" valign="top">
-
 </td>
 </tr>
 </table>
